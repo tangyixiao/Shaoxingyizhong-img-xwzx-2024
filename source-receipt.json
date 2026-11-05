@@ -2,26 +2,52 @@
   "repo": "tangyixiao/Shaoxingyizhong-img-xwzx-2024",
   "sourceBranch": "main",
   "sourceCommit": null,
+  "designVersion": 3,
+  "direction": {
+    "visualConcept": "氧化青铜与灰绿底纸的年度图录：大幅课堂照片从版心切入，居中合影做一张带边框的插页，讲座现场成为下方宽图。年度标记镂空于侧边，照片原色保持。事实边界：新闻中心 2024 资源分片，不宣称图录覆盖当年所有活动。",
+    "layout": "editorial",
+    "palette": {
+      "light": {
+        "bg": "#D8E1DC",
+        "surface": "#EDF1E5",
+        "ink": "#2E433B",
+        "muted": "#52675a",
+        "accent": "#406b5b"
+      },
+      "dark": {
+        "bg": "#192A22",
+        "surface": "#293E31",
+        "ink": "#EAF0DB",
+        "muted": "#a7bba0",
+        "accent": "#a6c995"
+      }
+    },
+    "threeConcept": "Three.js 构建一册青铜色书口的年度图录，三张真实图版分别位于封面、翻页和拉出页；书的体积明显可见，照片不被算法补景。",
+    "distinctiveInteraction": "点图版页角展开真实完整比例图片，再点边注查看原始路径；缩小动态时直接提供三种尺度的静态拼版。"
+  },
   "media": [
     {
       "src": "assets/media/photo-1.webp",
       "alt": "学生实践展示，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2024/blob/main/UploadFiles/xwzx/2024/3/202403291057384627.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2024/blob/main/UploadFiles/xwzx/2024/3/202403291057384627.jpg",
+      "path": "UploadFiles/xwzx/2024/3/202403291057384627.jpg"
     },
     {
       "src": "assets/media/photo-2.webp",
       "alt": "比赛活动合影，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2024/blob/main/UploadFiles/xwzx/2024/5/202405221711391746.png"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2024/blob/main/UploadFiles/xwzx/2024/5/202405221711391746.png",
+      "path": "UploadFiles/xwzx/2024/5/202405221711391746.png"
     },
     {
       "src": "assets/media/photo-3.webp",
       "alt": "现场交流，来自绍兴一中公开图片归档",
-      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2024/blob/main/UploadFiles/xwzx/2024/11/202411200902479568.jpg"
+      "url": "https://github.com/tangyixiao/Shaoxingyizhong-img-xwzx-2024/blob/main/UploadFiles/xwzx/2024/11/202411200902479568.jpg",
+      "path": "UploadFiles/xwzx/2024/11/202411200902479568.jpg"
     }
   ],
   "skills": [
     "baoyu-design",
     "design-taste-frontend"
   ],
-  "design": "content-first source/product/photography; no rejected template or faux 3D"
+  "flagshipModel": null
 }
